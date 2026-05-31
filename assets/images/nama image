@@ -1,0 +1,8 @@
+flutter:
+  assets:
+    - assets/images/foto.png
+    - assets/pet_banner.jpg
+    - assets/kucing.jpg
+    - assets/anjing.jpg
+    - assets/kelinci.jpg
+    - assets/burung.jpg
